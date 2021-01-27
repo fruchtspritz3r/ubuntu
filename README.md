@@ -1,7 +1,7 @@
 # ubuntu
 Some steps after the Installation!
  
-This is my tutorial, what I do to my installation of a clean Ubuntu installation.
+This is my tutorial, what I do to my installation of a clean Ubuntu.
 
 Gnome Extensions
 
